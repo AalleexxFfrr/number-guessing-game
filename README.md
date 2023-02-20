@@ -1,1 +1,1 @@
-# number-guessing-game
+# Try to guess number :smile:
